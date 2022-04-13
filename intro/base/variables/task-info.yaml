@@ -2,5 +2,30 @@ type: edu
 files:
 - name: src/Task.java
   visible: true
-- name: test/Tests.java
-  visible: true
+  placeholders:
+  - offset: 886
+    length: 1
+    placeholder_text: Переменная типа byte
+  - offset: 1049
+    length: 1
+    placeholder_text: Переменная типа short
+  - offset: 1204
+    length: 1
+    placeholder_text: Переменная типа int
+  - offset: 1363
+    length: 1
+    placeholder_text: Переменная типа long
+  - offset: 1526
+    length: 1
+    placeholder_text: Переменная типа float
+  - offset: 1693
+    length: 1
+    placeholder_text: Переменная типа double
+  - offset: 1858
+    length: 4
+    placeholder_text: Переменная типа double
+  - offset: 2023
+    length: 3
+    placeholder_text: Переменная типа char
+- name: test/TaskTest.java
+  visible: false

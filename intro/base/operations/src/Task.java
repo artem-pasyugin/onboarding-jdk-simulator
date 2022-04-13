@@ -1,4 +1,4 @@
-public class Task {
+class Task {
     //Результат целого числа
     private int result = 0;
 
@@ -39,6 +39,16 @@ public class Task {
      * @return результат произведения
      */
     public int multi(int value) {
+        return 0;
+    }
+
+    /**
+     * Операция деление по модулю двух чисел
+     *
+     * @param value - делитель
+     * @return результат деления по модулю
+     */
+    public int mod(int value) {
         return 0;
     }
 
