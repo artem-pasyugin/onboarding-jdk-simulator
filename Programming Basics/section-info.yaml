@@ -1,6 +1,9 @@
 content:
-- base
+- Hello World
+- Data Types
 - conditional
 - cycles
 - arrays
 - classes
+- Operations
+- Text

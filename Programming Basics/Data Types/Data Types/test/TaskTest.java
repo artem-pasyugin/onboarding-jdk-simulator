@@ -1,3 +1,4 @@
+/*
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -19,4 +20,4 @@ public class TaskTest {
     private String getFailedMessage(String methodName) {
       return String.format("Некорректное значение в ответе метода %s", methodName);
     }
-}
+}*/
