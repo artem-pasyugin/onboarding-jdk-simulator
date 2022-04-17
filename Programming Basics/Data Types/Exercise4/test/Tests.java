@@ -2,12 +2,12 @@ import org.junit.jupiter.api.Assertions;
 
 import java.io.ByteArrayOutputStream;
 
-
-public class TaskTest extends AbstractOutputTest {
+public class Tests extends AbstractOutputTest {
 
     @Override
     void testSolution(ByteArrayOutputStream output) {
         Task.main(new String[2]);
-        Assertions.assertEquals("Hello, \nJava!", output.toString().trim(), "Некорректное совпадение");
+        Assertions.assertEquals("Sally5.9", output.toString().trim(), "Некорректное совпадение");
+
     }
 }
