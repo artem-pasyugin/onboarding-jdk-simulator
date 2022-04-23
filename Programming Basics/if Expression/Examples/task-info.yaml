@@ -1,0 +1,8 @@
+type: theory
+files:
+  - name: src/PositiveOrNegativeOrZero.java
+    visible: true
+  - name: src/TrueOrFalse.java
+    visible: true
+  - name: src/Algebra.java
+    visible: true

@@ -2,7 +2,8 @@ content:
   - Hello World
   - var and final var
   - Data Types
-  - conditional
+  - Functions
+  - if Expression
   - cycles
   - arrays
   - classes
