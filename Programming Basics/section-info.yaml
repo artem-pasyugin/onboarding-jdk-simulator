@@ -4,8 +4,5 @@ content:
   - Data Types
   - Functions
   - if Expression
-  - cycles
-  - arrays
-  - classes
-  - Operations
-  - Text
+  - Repetition with while
+  - Repetition with for
