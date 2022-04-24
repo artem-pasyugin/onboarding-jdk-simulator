@@ -1,0 +1,8 @@
+type: theory
+files:
+  - name: src/TextBlocks.java
+    visible: true
+  - name: src/SwitchStatements.java
+    visible: true
+  - name: src/InstanceOf.java
+    visible: true
