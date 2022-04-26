@@ -1,0 +1,10 @@
+type: theory
+files:
+  - name: src/Animals.java
+    visible: true
+  - name: src/Dog.java
+    visible: true
+  - name: src/Cat.java
+    visible: true
+  - name: src/Hamster.java
+    visible: true

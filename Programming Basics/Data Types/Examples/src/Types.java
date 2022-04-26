@@ -1,4 +1,4 @@
-class Task {
+public class Types {
     // Целые числа        [1]
     final byte variableByte = 127;                   // 8 бит
     final short variableShort = 32_767;              // 16 бит
