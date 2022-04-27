@@ -1,0 +1,6 @@
+type: theory
+files:
+  - name: src/example/Main.java
+    visible: true
+  - name: src/example/constants/Months.java
+    visible: true
