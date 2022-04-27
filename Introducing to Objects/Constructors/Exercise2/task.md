@@ -1,4 +1,4 @@
-## Mastering the IDE: Generating `toString`
+## Освоение IDE: "Генерация `toString`"
 
 IntelliJ IDEA может автоматически генерировать функцию `toString()`.
 

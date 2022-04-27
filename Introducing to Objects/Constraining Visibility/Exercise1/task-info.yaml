@@ -1,0 +1,6 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+  - name: src/Alien.java
+    visible: true
