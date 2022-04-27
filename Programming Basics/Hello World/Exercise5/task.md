@@ -1,4 +1,4 @@
-## Освоение IDEA: Shortcuts
+## Освоение IDEA: "Shortcuts"
 
 В IntelliJ IDEA можно использовать shortcuts для разработки:
 

@@ -1,0 +1,8 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+  - name: src/Scientist.java
+    visible: true
+  - name: src/Student.java
+    visible: true
