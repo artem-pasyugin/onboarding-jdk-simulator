@@ -14,7 +14,7 @@ public class Task {
      * @return признак уникальности
      */
     static boolean hasUniqueCharacters(String s) {
-        //TODO
+        // TODO
         return false;
     }
 }

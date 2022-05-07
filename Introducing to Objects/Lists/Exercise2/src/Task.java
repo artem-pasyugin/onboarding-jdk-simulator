@@ -17,7 +17,7 @@ public class Task {
      * @return количество совпадений
      */
     private static int countMatches(List<Integer> integers, int number) {
-        //TODO
+        // TODO
         return 0;
     }
 }

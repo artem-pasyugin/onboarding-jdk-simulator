@@ -13,7 +13,7 @@ public class Task {
     }
 
     private static boolean checkAnagrams(String s1, String s2) {
-        //TODO
+        // TODO
         return false;
     }
 }

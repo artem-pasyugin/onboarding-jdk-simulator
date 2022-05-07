@@ -1,11 +1,17 @@
 public class Task {
 
     public static void main(String[] args) {
+
         displayContent("abc");
     }
 
-    static void displayContent(String s) {
+    /**
+     * Отображение символов из текста
+     *
+     * @param text - текстовое значение
+     */
+    static void displayContent(String text) {
         var i = 0;
-        //TODO
+        // TODO
     }
 }

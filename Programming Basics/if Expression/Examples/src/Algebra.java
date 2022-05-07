@@ -8,24 +8,30 @@ public class Algebra {
         System.out.printf("Время 20 вечера, магазин открыт %s\n\n", isOpen(20));
     }
 
+    /**
+     * Режим работы магазина по часам
+     *
+     * @param hour - текущий час
+     * @return режим работы
+     */
     static boolean isOpen(int hour) {
         int open = 9;
         int closed = 20;
 
         boolean isOpen = false;
 
-        //магазин работает
+        // магазин работает
         if (hour >= open && hour < closed) {
-            //рабочее время
+            // рабочее время
             if (hour != 14) {
                 System.out.println("Открыто");
                 isOpen = true;
             } else {
-                //перерыв
+                // перерыв
                 System.out.println("Технический перерыв");
             }
         } else {
-            //закрыто
+            // закрыто
             System.out.println("Закрыто");
         }
 

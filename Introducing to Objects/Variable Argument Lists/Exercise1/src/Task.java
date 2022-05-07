@@ -5,6 +5,6 @@ public class Task {
     }
 
     private static void print(Integer... integers) {
-        //TODO
+        // TODO
     }
 }

@@ -1,14 +1,22 @@
 public class PositiveOrNegativeOrZero {
 
     public static void main(String[] args) {
-        int n = -11;
+        System.out.println(checkSign(-11));
+    }
 
-        if (n > 0) {
-            System.out.println("Это позитивное значение");
-        } else if (n == 0) {
-            System.out.println("Это ноль");
+    /**
+     * Проверка на положительное и отрицательное число, иначе 0.
+     *
+     * @param number - целое число
+     * @return результат проверки
+     */
+    static String checkSign(int number) {
+        if (number > 0) {
+            return "Это положительное значение";
+        } else if (number == 0) {
+            return "Это ноль";
         } else {
-            System.out.println("Это негативное значение");
+            return "Это негативное значение";
         }
     }
 }

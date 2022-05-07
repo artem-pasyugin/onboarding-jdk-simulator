@@ -1,4 +1,4 @@
 type: theory
 files:
-- name: src/example/HelloWorld.java
-  visible: true
+  - name: src/example/HelloWorld.java
+    visible: true

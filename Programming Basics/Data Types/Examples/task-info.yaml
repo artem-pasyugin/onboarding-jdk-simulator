@@ -1,4 +1,4 @@
 type: edu
 files:
-  - name: src/Types.java
+  - name: src/Main.java
     visible: true

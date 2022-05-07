@@ -8,7 +8,7 @@ public class Task {
         char c = 'a';
 
         // String может суммироваться с каждым типом
-        //TODO
+        // TODO
 
 
         // Не может суммироваться

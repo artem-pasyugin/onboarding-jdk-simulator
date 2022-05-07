@@ -7,7 +7,7 @@ public class SwitchStatements {
         System.out.printf("Количество ног у собаки %s\n", getCountLegs(Animal.DOG));
         System.out.printf("Количество ног у кошки %s\n", getCountLegs(Animal.CAT));
         System.out.printf("Количество ног у попугая %s\n", getCountLegs(Animal.PARROT));
-        //ошибка вышла!
+        // ошибка вышла!
         System.out.printf("Количество ног у золотой рыбки %s\n", getCountLegs(Animal.GOLDFISH));
     }
 

@@ -1,4 +1,4 @@
 type: theory
 files:
-  - name: src/Vars.java
+  - name: src/Main.java
     visible: true

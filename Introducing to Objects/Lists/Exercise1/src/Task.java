@@ -16,7 +16,7 @@ public class Task {
      * @return максимальное число
      */
     private static int findMax(List<Integer> integers) {
-        //TODO
+        // TODO
         return 0;
     }
 }

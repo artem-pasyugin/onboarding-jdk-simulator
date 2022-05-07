@@ -1,4 +1,4 @@
-public class Vars {
+public class Main {
 
     public static void main(String[] args) {
         final var whole = 11;                    // [1]

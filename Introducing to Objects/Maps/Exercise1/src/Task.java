@@ -6,7 +6,7 @@ public class Task {
 
     private static Map<String, Contact> buildNumberToContactMap(List<Contact> contactList) {
         HashMap<String, Contact> map = new HashMap<>();
-        //TODO
+        // TODO
         return map;
     }
 
