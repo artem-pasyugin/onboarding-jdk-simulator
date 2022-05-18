@@ -7,6 +7,6 @@ public class TaskTest extends AbstractOutputTest {
     @Override
     void testSolution(ByteArrayOutputStream output) {
         Task.main(new String[0]);
-        Assertions.assertEquals("42", output.toString().trim(), "Некорректное совпадение");
+        Assertions.assertEquals("42", output.toString().trim());
     }
 }

@@ -1,6 +1,4 @@
-type: output
+type: ide
 files:
-- name: src/Task.java
-  visible: true
-- name: test/output.txt
-  visible: false
+  - name: src/Task.java
+    visible: true

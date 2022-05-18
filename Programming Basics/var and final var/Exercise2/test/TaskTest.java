@@ -21,7 +21,7 @@ public class TaskTest {
   @Test
   public void testSolution() {
     Task.main(new String[2]);
-    Assertions.assertEquals("42\n10", outContent.toString().trim(), "Некорректное совпадение");
+    Assertions.assertEquals("42\n10", outContent.toString().trim());
   }
 
   @AfterEach

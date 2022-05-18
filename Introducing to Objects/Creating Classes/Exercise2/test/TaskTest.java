@@ -7,7 +7,7 @@ public class TaskTest extends AbstractOutputTest {
     @Override
     void testSolution(ByteArrayOutputStream output) {
         Task.main(new String[2]);
-        Assertions.assertTrue(output.toString().trim().length() > 0, "Пустой ответ");
-        Assertions.assertFalse(output.toString().trim().contains("@"), "В адресе не должно быть знака '@'");
+        Assertions.assertTrue(output.toString().trim().length() > 0, "Empty answer");
+        Assertions.assertFalse(output.toString().trim().contains("@"), "The address must not contain \"@\" symbol");
     }
 }

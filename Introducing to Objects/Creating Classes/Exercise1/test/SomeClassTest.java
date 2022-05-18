@@ -8,6 +8,6 @@ public class SomeClassTest extends AbstractOutputTest {
     @Override
     void testSolution(ByteArrayOutputStream output) {
         someClass.a();
-        Assertions.assertEquals("42", output.toString().trim(), "Некорректное совпадение");
+        Assertions.assertEquals("42", output.toString().trim());
     }
 }

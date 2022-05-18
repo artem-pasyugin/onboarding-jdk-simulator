@@ -1,4 +1,4 @@
-type: edu
+type: output
 files:
   - name: src/Task.java
     visible: true
