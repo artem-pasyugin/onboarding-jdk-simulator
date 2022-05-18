@@ -1,4 +1,4 @@
-## Больше про `Java 17`
+## Больше про `Java 18`
 
 [Полезная публикация от JUG.ru](https://habr.com/ru/company/jugru/blog/652821/)
 
