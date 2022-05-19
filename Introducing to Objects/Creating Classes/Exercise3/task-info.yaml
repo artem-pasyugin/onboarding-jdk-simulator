@@ -1,6 +1,7 @@
 type: edu
 files:
-  - name: test/TaskTest.java
-    visible: false
   - name: src/Task.java
     visible: true
+  - name: test/TaskTest.java
+    visible: true
+status: Unchecked

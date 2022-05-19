@@ -1,6 +1,7 @@
-type: edu
+type: theory
 files:
-  - name: src/Task.java
-    visible: true
-  - name: test/Tests.java
-    visible: false
+- name: src/Task.java
+  visible: true
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,6 +1,7 @@
 type: output
 files:
   - name: test/output.txt
-    visible: false
+    visible: true
   - name: src/Alien.java
     visible: true
+status: Unchecked

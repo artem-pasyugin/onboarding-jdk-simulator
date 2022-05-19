@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Assertions;
 
 import java.io.ByteArrayOutputStream;
 
-public class Tests extends AbstractOutputTest {
+public class TaskTest extends AbstractOutputTest {
 
     @Override
     void testSolution(ByteArrayOutputStream output) {

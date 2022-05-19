@@ -1,10 +1,17 @@
 type: edu
 files:
   - name: test/TaskTest.java
-    visible: false
+    visible: true
   - name: src/Task.java
     visible: true
     placeholders:
       - offset: 92
         length: 4
         placeholder_text: TODO
+        initial_state:
+          length: 4
+          offset: 92
+        initialized_from_dependency: false
+        selected: false
+        status: Unchecked
+        encrypted_possible_answer: Hello, Java!

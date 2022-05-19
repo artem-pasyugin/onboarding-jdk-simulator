@@ -3,4 +3,5 @@ files:
   - name: src/SomeClass.java
     visible: true
   - name: test/SomeClassTest.java
-    visible: false
+    visible: true
+status: Unchecked

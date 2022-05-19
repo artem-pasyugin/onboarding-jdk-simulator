@@ -1,8 +1,9 @@
 type: output
 files:
   - name: test/output.txt
-    visible: false
+    visible: true
   - name: src/exercise/task/EquilateralTriangle.java
     visible: true
   - name: src/exercise/Main.java
     visible: true
+status: Unchecked

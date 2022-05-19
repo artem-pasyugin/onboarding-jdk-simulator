@@ -1,6 +1,7 @@
 type: output
 files:
   - name: test/output.txt
-    visible: false
+    visible: true
   - name: src/Task.java
     visible: true
+status: Unchecked

@@ -3,4 +3,5 @@ files:
   - name: src/Task.java
     visible: true
   - name: test/TaskTest.java
-    visible: false
+    visible: true
+status: Unchecked

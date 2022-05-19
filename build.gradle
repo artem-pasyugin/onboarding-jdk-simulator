@@ -19,7 +19,7 @@ subprojects {
     apply plugin: 'application'
     apply plugin: 'java'
 
-    sourceCompatibility = 18
+    sourceCompatibility = targetCompatibility = 18
 
     repositories {
         mavenCentral()
