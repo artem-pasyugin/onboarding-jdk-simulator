@@ -1,1 +1,1 @@
-{098-765-4321=Contact{name='Cleo', number='098-765-4321'}, 1-234-567890=Contact{name='Miffy', number='1-234-567890'}}
+{Света=Contact{name='Света', number='8(888)7776655'}, Миша=Contact{name='Миша', number='8(999)8887766'}}

@@ -7,7 +7,6 @@ summary: |2-
 programming_language: Java
 programming_language_version: 18
 content:
-  - Programming Basics
-  - Introducing to Objects
+- Programming Basics
+- Introducing to Objects
 mode: Study
-solutions_hidden: false

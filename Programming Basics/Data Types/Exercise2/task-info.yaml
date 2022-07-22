@@ -1,5 +1,7 @@
-type: theory
+type: output
 files:
+  - name: test/output.txt
+    visible: true
   - name: src/Task.java
     visible: true
     learner_created: false

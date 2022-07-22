@@ -2,6 +2,9 @@ type: output
 files:
   - name: test/output.txt
     visible: true
+    learner_created: false
   - name: src/Task.java
     visible: true
+    learner_created: false
 status: Unchecked
+record: -1

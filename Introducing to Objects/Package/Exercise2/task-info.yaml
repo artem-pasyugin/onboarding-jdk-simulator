@@ -1,9 +1,13 @@
 type: output
 files:
   - name: test/output.txt
-    visible: true
+    visible: false
+    learner_created: false
   - name: src/exercise/task/EquilateralTriangle.java
     visible: true
+    learner_created: false
   - name: src/exercise/Main.java
     visible: true
+    learner_created: false
 status: Unchecked
+record: -1

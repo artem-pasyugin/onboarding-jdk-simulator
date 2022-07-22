@@ -2,6 +2,9 @@ type: edu
 files:
   - name: src/SomeClass.java
     visible: true
+    learner_created: false
   - name: test/SomeClassTest.java
     visible: true
+    learner_created: false
 status: Unchecked
+record: -1

@@ -2,9 +2,16 @@ type: theory
 files:
   - name: src/Animals.java
     visible: true
+    learner_created: false
   - name: src/Dog.java
     visible: true
+    learner_created: false
   - name: src/Cat.java
     visible: true
+    learner_created: false
   - name: src/Hamster.java
     visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

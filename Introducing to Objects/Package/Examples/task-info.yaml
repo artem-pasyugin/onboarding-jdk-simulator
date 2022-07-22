@@ -2,5 +2,10 @@ type: theory
 files:
   - name: src/example/Main.java
     visible: true
+    learner_created: false
   - name: src/example/constants/Months.java
     visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

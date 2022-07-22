@@ -1,7 +1,10 @@
 type: output
 files:
   - name: test/output.txt
-    visible: true
+    visible: false
+    learner_created: false
   - name: src/Alien.java
     visible: true
+    learner_created: false
 status: Unchecked
+record: -1
